@@ -4,6 +4,7 @@
 
 I like software that understands *why*, not just *what* — tools that reason about systems instead of just running them.
 ---
+## Github Streak:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=noumanshakeel555-lang)](https://git.io/streak-stats)
 ---
 
