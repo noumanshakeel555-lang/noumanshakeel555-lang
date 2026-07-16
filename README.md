@@ -3,6 +3,8 @@
 **Artificial Intelligence Engineer** building things at the intersection of LLMs, code, and structured data.
 
 I like software that understands *why*, not just *what* — tools that reason about systems instead of just running them.
+---
+[![GitHub Stats](https://demolab.com)](https://git.io/streak-stats)
 
 ---
 
