@@ -6,7 +6,6 @@ I like software that understands *why*, not just *what* — tools that reason ab
 ---
 ## Github Streak:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=noumanshakeel555-lang)](https://git.io/streak-stats)
----
 
 ### 🔭 Currently
 
