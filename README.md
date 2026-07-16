@@ -4,8 +4,7 @@
 
 I like software that understands *why*, not just *what* — tools that reason about systems instead of just running them.
 ---
-[![GitHub Stats](https://demolab.com)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://vercel.app)](https://github.com/DenverCoder1/github-readme-streak-stats)
 ---
 
 ### 🔭 Currently
